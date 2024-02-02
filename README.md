@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Patil</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/SwiftyTushar/ChatApp)
+- 🔭 I’m currently working on [PaperCrypto]([https://github.com/SwiftyTushar/ChatApp](https://github.com/SwiftyTushar/PaperCrypto))
 
 - 🌱 I’m currently learning **SocketIO and SwiftUI**
 
